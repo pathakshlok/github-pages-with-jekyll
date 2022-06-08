@@ -1,6 +1,7 @@
 title: Project for Mr. Cohen
 author: Shlok Pathak
 email: pathakshlok9@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This is a project for Mr. Cohen
 
