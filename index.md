@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Comp Sci Project for Mr. Cohen"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Name: Shlok Pathak
+Instagram: @its_shlick
